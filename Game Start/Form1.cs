@@ -93,7 +93,7 @@ namespace Game_Start
             beginLabel.Visible = true;
             Refresh();
         }
-
+        //change demo
         private void label1_Click(object sender, EventArgs e)
         {
 
